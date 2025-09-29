@@ -24,11 +24,11 @@ This Data Challenge is judged on the final report, presentation, and model accur
 GROUPS MAY HAVE UP TO 4 MEMBERS . . .  NO MORE
 ---
 
-## Relevant  Variable Explanation
+## Relevant Variable Explanation
 
-**Commodity:** This column lists a commodity or commodity group and its corresponding North American Industry Classification System (NAICS) code used by North American (Canada, US, and Mexico) federal statistics agencies. Note that some codes refer to broad classfications of commodities while others refer to specific commodities. It may be useful to familiarize yourself with the NAICS, which you can do with this document: [link](https://www.census.gov/naics/reference_files_tools/2022_NAICS_Manual.pdf). 
+**Commodity:** This column lists a commodity or commodity group and its corresponding North American Industry Classification System (NAICS) code used by North American (Canada, US, and Mexico) federal statistics agencies. Note that some codes refer to broad classifications of commodities while others refer to specific commodities. It may be useful (but not required) to familiarize yourself with the NAICS, which you can do with this document: [link](https://www.census.gov/naics/reference_files_tools/2022_NAICS_Manual.pdf). 
 
-**Period:** This column lists the month and year of analysis.
+**Month:** This column lists the month of analysis.
 
 **Year:** This column lists the year of analysis.
 
@@ -36,20 +36,23 @@ GROUPS MAY HAVE UP TO 4 MEMBERS . . .  NO MORE
 
 **Total Exports Value ($US):** This column contains the value of US exports, expressed in **nominal** USD ($). See this [link](https://usatrade.census.gov/data/Perspective60/Browse/SummarySpawned.aspx?SummaryType=DimensionSummary&userId=225891&DimensionIndex=3&Language=en&SummaryReportId=7028&SummaryCubeId=17) for further details. 
 
-**Customs Import Value (Gen) ($US):** This column contains the value of US imports, in **nominal** USD ($). See this [link](https://usatrade.census.gov/data/Perspective60/Browse/SummarySpawned.aspx?SummaryType=DimensionSummary&userId=225891&DimensionIndex=3&Language=en&SummaryReportId=7028&SummaryCubeId=17) for further details.
+**Customs Import Value (Gen) ($US):** This column contains the value of US imports, in **nominal** USD ($), excluding tariffs and other factors which influence the value of imported goods. See this [link](https://usatrade.census.gov/data/Perspective60/Browse/SummarySpawned.aspx?SummaryType=DimensionSummary&userId=225891&DimensionIndex=3&Language=en&SummaryReportId=7028&SummaryCubeId=17) for further details.
 
+**CPI_Annual:** This column contains the US's average annual CPI-U for each year. The CPI-U is the Consumer Price Index for Urban Consumers. It can be used to calculate **price inflation**, or at least a good and commonly-referenced estimate of inflation. It may be useful to familiarize yourself with the CPI and how to use it to calculate inflation. Here is a good starting point: [link](https://en.wikipedia.org/wiki/Consumer_price_index_in_the_United_States). 
 
-
+**GDP_Current_USD:** This column contains the US's nominal Gross Domestic Product (GDP) in USD ($) for each year. It may be useful to familiarize yourself with GDP and its relevance to interpreting US trade data.
 
 ## Introduction to the Data Challenge
 
-The topic of this Data Challenge is international trade. Trade flows—imports, exports, and balances of goods and services—sit at the heart of how countries interact with one another. From fueling domestic industries to influencing global alliances, patterns of trade shape the economic and political order of the world. Today, trade disputes, tariff battles, and supply chain disruptions underscore just how powerful these flows are. Understanding them is not only a matter of economics but also of geopolitics and strategy.
+The topic of this Data Challenge is international trade. Trade flows - imports, exports, and balances of goods and services - sit at the heart of how countries interact with one another. From fueling domestic industries to influencing global alliances, patterns of trade shape the economic and political order of the world. Today, trade disputes, tariff battles, and supply chain disruptions underscore just how powerful these flows are. Understanding them is not only a matter of economics but also of geopolitics and strategy.
 
 The goal of this Data Challenge, then, is to explore patterns in global trade using U.S. Census Bureau data. By analyzing trade volumes, substitution effects, correlations across goods, or the consistency of relationships between countries, you will develop insights into how nations and industries navigate this ever-changing landscape. Rather than producing a single “right answer,” your task is to ask sharp, research-like questions and explore them through statistical methods.
 
 You are given a dataset sourced from the U.S. Census Bureau, which contains detailed information on imports and exports across goods, services, and trading partners over time. It is important to note that not every variable (column) is equally useful—part of your challenge will be to decide what is most relevant for your chosen question. Some questions may require aggregating categories of goods, others may focus on time-series dynamics, and still others may compare relationships across countries.
 
 It would also be smart to do some preliminary research on the terms used in the dataset and the broader economic context. For example, what distinguishes a tariff from a trade barrier? Why do certain industries, like semiconductors or pharmaceuticals, carry disproportionate weight in trade discussions? And what might it mean for a relationship between two countries to be “stable” or “unstable”?
+
+**IMPORTANT:** Note that both U.S. GDP and the CPI have increased steadily over the selected time period, and that all export and import values are expressed in nominal terms. Without adjustment, a rise in dollar values might reflect nothing more than general price inflation or the natural expansion of the overall economy. To isolate genuine shifts in trade behavior, it is essential to deflate nominal trade flows with a price index and to consider them relative to GDP. Accounting for inflation and economic growth allows you to distinguish real changes in the quantity and significance of trade from mere monetary effects, giving your analysis a sound economic foundation.
 
 ## Data Challenge Questions: 
 
