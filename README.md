@@ -15,7 +15,7 @@ This Data Challenge is judged on the final report, presentation, and model accur
 
 **October 24, 2024**: Report, and Code are due by 11:59pm
 
-> **Note:** Unlike previous semsters we are **not** requiring you to submit your presentations before hand.
+> **Note:** Unlike previous semsters we are **not** requiring you to submit your presentations beforehand.
 
 **October 27, 2024**: Oral presentations before a panel of judges at 6:00pm, 2532 Mordgridge Hall
 
