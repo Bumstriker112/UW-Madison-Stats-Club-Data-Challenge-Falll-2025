@@ -132,16 +132,16 @@ The requirements for the executive report are as follows:
 
 ### Checkpoint  
 > Submit a zipped folder containing your exploratory data analysis code.  
-> Email the folder with the subject line **`Data Challenge Checkpoint`** to [Spencer](mailto:svenancio@wisc.edu) by **October 13, 2024**.  
+> Email the folder with the subject line **`<TEAM NAME> - Data Challenge Checkpoint`** to [Spencer](mailto:svenancio@wisc.edu) by **October 13, 2024**.  
 
 ### Final  
 > Submit a zipped folder labeled with your team name. This folder should include:  
-> - Slides for your presentation (PPT or PDF)  
 > - Executive report (PDF)  
 > - Code used for analysis  
 >   
-> Email the folder with the subject line **`Data Challenge Submission`** to [Spencer](mailto:svenancio@wisc.edu) by **11:59 PM on October 24, 2024**.  
-
+> Email the folder with the subject line **`<TEAM NAME> - Data Challenge Submission`** to [Spencer](mailto:svenancio@wisc.edu) by **11:59 PM on October 24, 2024**.  
+>
+> The presentation should be emailed to the same email at some point before the final presentations with the subject line `<TEAM NAME> - Data Challenge Presentation`.
 
 
 # Data Challenge Rubric (Fall 2025)
@@ -176,7 +176,6 @@ Each student assumes the responsibilities of an active participant in UW–Madis
 - **Directly copying, paraphrasing, or using existing analyses** of the competition dataset is prohibited. Examples include:  
   - Online course materials  
   - Blog posts or published notebooks  
-  - Pre-written scripts or APIs that automatically perform analysis (e.g., sentiment analysis tools)  
 - You are **encouraged** to browse for background information. Using external resources to provide context is acceptable as long as you give proper attribution and ensure the analysis itself is your own work.  
 - Your team’s analysis must be **original** and reflect your own effort. In industry terms: *do not steal others’ intellectual property*.  
 - You may not ask anyone outside your group to perform any part of the analysis on your behalf.  
@@ -190,6 +189,11 @@ AI tools (e.g., ChatGPT, Copilot) are permitted under **standard academic integr
 However:  
 - If AI is used, your team must still be able to **explain, justify, and defend** all decisions made in your analysis.  
 - Failure to demonstrate understanding of your own work because of overreliance on AI will be considered a **serious penalty**. It will heavily impact the quality assessment of your project.  
+
+--- 
+### Use of API Tools
+
+Participants are permitted to use external APIs (e.g., Hugging Face or similar platforms) to access machine learning models, provided that these models are general-purpose and not already specifically trained or fine-tuned on the challenge dataset. This policy aligns with standard research and industry practices, ensuring participants can leverage established tools without “reinventing the wheel,” while maintaining fairness and originality in the development of solutions.
 
 ---
 ### External Research and Data
