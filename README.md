@@ -17,7 +17,7 @@ This Data Challenge is judged on the final report, presentation, and model accur
 
 > **Note:** Unlike previous semsters we are **not** requiring you to submit your presentations before hand.
 
-**October 27, 2024**: Oral presentations before a panel of judges 
+**October 27, 2024**: Oral presentations before a panel of judges at 6:00pm, 2532 Mordgridge Hall
 
 
 ---
