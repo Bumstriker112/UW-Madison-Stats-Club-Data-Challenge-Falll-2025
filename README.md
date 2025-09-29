@@ -8,7 +8,7 @@ This Data Challenge is judged on the final report, presentation, and model accur
 
 ## Important Dates:
 
-**October 6, 2025**: Help Session at 6:00pm, 2532 Mordgridge Hall
+**October 6, 2025**: Help Session at 6:00pm, 2532 Morgridge Hall
 
 
 **October 13, 2024**: Midpoint Checkpoint - Submit your code for a small point boost.
@@ -41,6 +41,8 @@ GROUPS MAY HAVE UP TO 4 MEMBERS . . .  NO MORE
 **CPI_Annual:** This column contains the US's average annual CPI-U for each year. The CPI-U is the Consumer Price Index for Urban Consumers. It can be used to calculate **price inflation**, or at least a good and commonly-referenced estimate of inflation. It may be useful to familiarize yourself with the CPI and how to use it to calculate inflation. Here is a good starting point: [link](https://en.wikipedia.org/wiki/Consumer_price_index_in_the_United_States). 
 
 **GDP_Current_USD:** This column contains the US's nominal Gross Domestic Product (GDP) in USD ($) for each year. It may be useful to familiarize yourself with GDP and its relevance to interpreting US trade data.
+
+Note that the datasets in the "Data for Predictive Modeling" folder can be used for other analyses.
 
 ## Introduction to the Data Challenge
 
