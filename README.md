@@ -161,20 +161,24 @@ The requirements for the executive report are as follows:
 
 # Data Challenge Rubric (Fall 2025)
 
-| Category            | Criteria | Description | Points |
-|---------------------|----------|-------------|--------|
-| **Write-up / Model** (25 pts) | W1 | Introduces the dataset, context, and purpose of the analysis. Includes a well-defined thesis or research question. | 5 |
-|                     | W2 | Justifies the choice of data analysis methods or predictive techniques, explaining why they fit the problem or dataset. | 5 |
-|                     | W3 | Explains key findings clearly and concisely, including parameter estimates (if applicable) and their significance. Avoids unnecessary output. Interprets results in accessible terms. | 5 |
-|                     | W4 | Assesses strengths and weaknesses of chosen methods, checking assumptions and diagnostics (e.g., overfitting, bias-variance, validation performance). | 5 |
-|                     | W5 | Evaluates predictive or explanatory accuracy using appropriate metrics and validation. | 5 |
-| **Presentation** (25 pts) | P1 | Communicates key messages and conclusions clearly, leaving the audience with a strong understanding of the findings. | 5 |
-|                     | P2 | Uses visuals (plots, charts, tables) that are clear, relevant, and easy to follow. Explanations are concise and accessible. | 5 |
-|                     | P3 | Demonstrates that methods are statistically sound; addresses strengths and weaknesses. Interprets results correctly and highlights insights. | 5 |
-|                     | P4 | Provides strong evidence and logical reasoning to support conclusions. Connects analysis to findings effectively. | 5 |
-|                     | P5 | Delivers the presentation clearly and engagingly. Maintains audience understanding throughout. | 5 |
+| Category | Criteria | Description | Points |
+|----------|---------|------------|-------|
+| **Presentation** (30 pts) | P1 | Communicates key messages and conclusions clearly, leaving the audience with a strong understanding of the findings. | 6 |
+|  | P2 | Uses visuals (plots, charts, tables) that are clear, relevant, and easy to follow. Explanations are concise and accessible. | 6 |
+|  | P3 | Demonstrates that methods are statistically sound; addresses strengths and weaknesses. Interprets results correctly and highlights insights. | 6 |
+|  | P4 | Provides strong evidence and logical reasoning to support conclusions. Connects analysis to findings effectively. | 6 |
+|  | P5 | Delivers the presentation clearly and engagingly. Maintains audience understanding throughout. | 6 |
+| **Methodology** (40 pts) | M1 | Introduces the dataset, context, and purpose of the analysis. Includes a well-defined thesis or research question. | 8 |
+|  | M2 | Justifies the choice of data analysis methods or predictive techniques, explaining why they fit the problem or dataset. | 8 |
+|  | M3 | Explains key findings clearly and concisely, including parameter estimates (if applicable) and their significance. Avoids unnecessary output. Interprets results in accessible terms. | 8 |
+|  | M4 | Assesses strengths and weaknesses of chosen methods, checking assumptions and diagnostics (e.g., overfitting, bias-variance, validation performance). | 8 |
+|  | M5 | Evaluates predictive or explanatory accuracy using appropriate metrics and validation. | 8 |
+| **Write-up** (10 pts) | W1 | Presents a concise, well-structured one–two page executive report that summarizes methods, key findings, and evidence in an accessible way. | 5 |
+|  | W2 | Provides figures, tables, and references as needed for replication and clarity. | 5 |
+| **Prediction Accuracy** (20 pts) | A1 | For teams that include forecasting or prediction: evaluates the out-of-sample accuracy of the model using appropriate metrics (e.g., RMSE, MAE, MAPE). | 10 |
+|  | A2 | Demonstrates robustness of the predictive model (e.g., cross-validation, sensitivity checks) and interprets the results effectively. | 10 |
 
-**Total: 50 points**
+**Total: 100 points**
 
 
 
