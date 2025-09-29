@@ -21,7 +21,7 @@ This Data Challenge is judged on the final report, presentation, and model accur
 
 
 ---
-GROUPS MAY HAVE UP TO 5 MEMBERS . . .  NO MORE
+GROUPS MAY HAVE UP TO 4 MEMBERS . . .  NO MORE
 ---
 
 ## Relevant  Variable Explanation
