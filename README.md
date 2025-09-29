@@ -26,10 +26,22 @@ GROUPS MAY HAVE UP TO 4 MEMBERS . . .  NO MORE
 
 ## Relevant  Variable Explanation
 
-> TODO
+**Commodity:** This column lists a commodity or commodity group and its corresponding North American Industry Classification System (NAICS) code used by North American (Canada, US, and Mexico) federal statistics agencies. Note that some codes refer to broad classfications of commodities while others refer to specific commodities. It may be useful to familiarize yourself with the NAICS, which you can do with this document: [link](https://www.census.gov/naics/reference_files_tools/2022_NAICS_Manual.pdf). 
+
+**Period:** This column lists the month and year of analysis.
+
+**Year:** This column lists the year of analysis.
+
+**Country:** This column lists the country of analysis.
+
+**Total Exports Value ($US):** This column contains the value of US exports, expressed in **nominal** USD ($). See this [link](https://usatrade.census.gov/data/Perspective60/Browse/SummarySpawned.aspx?SummaryType=DimensionSummary&userId=225891&DimensionIndex=3&Language=en&SummaryReportId=7028&SummaryCubeId=17) for further details. 
+
+**Customs Import Value (Gen) ($US):** This column contains the value of US imports, in **nominal** USD ($). See this [link](https://usatrade.census.gov/data/Perspective60/Browse/SummarySpawned.aspx?SummaryType=DimensionSummary&userId=225891&DimensionIndex=3&Language=en&SummaryReportId=7028&SummaryCubeId=17) for further details.
 
 
-## Introduction to the Data Challnege
+
+
+## Introduction to the Data Challenge
 
 The topic of this Data Challenge is international trade. Trade flows—imports, exports, and balances of goods and services—sit at the heart of how countries interact with one another. From fueling domestic industries to influencing global alliances, patterns of trade shape the economic and political order of the world. Today, trade disputes, tariff battles, and supply chain disruptions underscore just how powerful these flows are. Understanding them is not only a matter of economics but also of geopolitics and strategy.
 
@@ -42,7 +54,7 @@ It would also be smart to do some preliminary research on the terms used in the 
 ## Data Challenge Questions: 
 
 
-Contrary to how we have done things in the past, you are in **NO WAY** expected to answer each of the questions below, and nor are you expected to follow the *Example Methods*.  
+Contrary to how we have done things in the past, you are in **NO WAY** expected to answer each of the questions below, nor are you expected to follow the *Example Methods*.  
 The list of questions is meant to encourage you to form **one or more research-like questions** that allow your group the freedom to explore something of interest.  
 The questions are intended to be open-ended but not vague. If you are confused, please reach out to the Vice President [Spencer Venancio](mailto:svenancio@wisc.edu) or any of the other board members (contacts below).
 
@@ -198,7 +210,7 @@ We highly encourage students to develop at least a basic domain knowledge in **m
 
 Using external resources is allowed and encouraged, but it comes with important responsibilities:  
 
-- **Cite your sources.** Any external materials, whether academic papers, websites, or data repositories, must be properly attributed.  
+- **Cite your sources.** Any external materials, whether academic papers, chatbots, websites, or data repositories, must be properly attributed.  
 - **Use external data carefully.** It is fine to bring in outside data to complement the provided dataset, but the majority of your analysis should remain grounded in the official competition data.  
 - **Balance your work.** If your analysis relies too heavily on outside sources, or if external data begins to overshadow the provided resources, your project may stray too far from the challenge’s intent. Some extension is acceptable, but the focus should stay connected to the given dataset.  
 - **Proceed with caution.** Background knowledge is meant to enrich your analysis, not replace it. The strongest projects will combine domain knowledge with careful statistical reasoning.  
