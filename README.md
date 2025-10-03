@@ -8,7 +8,7 @@ This Data Challenge is judged on the final report, presentation, and model accur
 
 ## Important Dates:
 
-**October 6, 2025**: Help Session at 6:00pm, 2538 Morgridge Hall
+**October 6, 2025**: Help Session at 6:00pm, 2532 Morgridge Hall
 
 
 **October 13, 2024**: Midpoint Checkpoint - Submit your code for a small point boost.
@@ -17,7 +17,7 @@ This Data Challenge is judged on the final report, presentation, and model accur
 
 > **Note:** Unlike previous semsters we are **not** requiring you to submit your presentations beforehand.
 
-**October 27, 2024**: Oral presentations before a panel of judges at 6:00pm, 2532 Mordgridge Hall
+**October 27, 2024**: Oral presentations before a panel of judges at 6:00pm, 2538 Mordgridge Hall
 
 
 ---
