@@ -78,7 +78,7 @@ What broad trade trends emerge as a result?
 ---
 
 #### Question 2  
-Which goods and services show strong correlations in their trade flows?  
+Which commodities show strong correlations in their trade flows?  
 Do changes in imports/exports of one good systematically move with others?  
 
 > **Example Methods:**  
@@ -98,7 +98,7 @@ Consider factors such as geography, development status, and population.
 ---
 
 #### Question 4  
-Which countries have the most consistent trade relationships, and which have unstable ones?  
+Which countries have the most consistent trade relationships with the U.S., and which have unstable ones?  
 
 > **Example Methods:**  
 > - Time-series analysis of bilateral trade stability  
