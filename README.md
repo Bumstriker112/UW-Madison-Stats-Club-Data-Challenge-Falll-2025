@@ -124,18 +124,18 @@ Certificates will be given for the following categories:
 Teams will be judged by department faculty and graduate students. You will receive official certificates for the awards, and your team photos will be shared on our club’s social media pages. The team that wins **Best Overall Project** will earn spots on the UW–Madison team for MUDAC, a regional statistical analysis competition held in the spring, with full travel funding provided.
 
 ## Presentations:
-Your group will prepare a three to five minute presentation of your data analysis, followed by questions from the audience. The goal of the presentation is to practice presenting statistical findings in a concise and clear manner. The presentation should include key evidence (e.g. plots, tables, inferential methods, etc.) that support your findings. Your presentation must be clear and precise enough so that the audience will be able to understand which statistical analyses you used and how you have reached your conclusions.
+Your group will prepare a roughly ten-minute presentation of your data analysis, followed by questions from the audience. The goal of the presentation is to practice presenting statistical findings in a concise and clear manner. The presentation should include key evidence (e.g. plots, tables, inferential methods, etc.) that support your findings. Your presentation must be clear and precise enough that the audience will be able to understand which statistical analyses you used and how you have reached your conclusions.
 
 The requirements for the presentation are as follows:
--  Due to time constraints, the five-minute time limit will be strictly enforced.  While we will provide time cards and warnings for you during the presentation, it is ultimately your responsibility to rehearse your presentation so that it stays under five minutes. 
--  Each member of your group must speak for at least 1 minute during the five-minute presentation. 
+-  Due to time constraints, the ten-minute time limit will be strictly enforced.  While we will provide time cards and warnings for you during the presentation, it is ultimately your responsibility to rehearse your presentation so that it stays under ten minutes. 
+-  Each member of your group must speak for at least 1 minute during the ten-minute presentation. 
 - All members of the group must work on the presentation and be prepared to answer 1-3 short questions about the presentation from the audience (including the judges and other participants).
 
 The exact time of your group’s presentation will be determined randomly on the day of the presentation.
 
 ## Written Report:
 
-Your group must submit a one to two page report of the data analysis. In particular, the report should include (1) your **overall findings**, (2) relevant and important **evidence** for your findings (e.g. plots, tables), and (3) important **details of your statistical analysis** (e.g. type of model used, inferential quantities, outliers, leverage points, modeling assumptions, etc.). Your report should be detailed enough that any data scientist can read it and replicate your analysis.
+Your group must submit a one to two-page report of the data analysis. In particular, the report should include (1) your **overall findings**, (2) relevant and important **evidence** for your findings (e.g. plots, tables), and (3) important **details of your statistical analysis** (e.g. type of model used, inferential quantities, outliers, leverage points, modeling assumptions, etc.). Your report should be detailed enough that any data scientist can read it and replicate your analysis.
 
 The requirements for the executive report are as follows: 
 
