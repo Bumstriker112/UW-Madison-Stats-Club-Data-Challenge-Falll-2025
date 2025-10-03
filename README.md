@@ -46,7 +46,7 @@ Note that the datasets in the "Data for Predictive Modeling" folder can be used 
 
 ## Introduction to the Data Challenge
 
-The topic of this Data Challenge is international trade. Trade flows - imports, exports, and trade balances - sit at the heart of how countries interact with one another. From fueling domestic industries to influencing global alliances, patterns of trade shape the economic and political order of the world. Today, trade disputes, tariff battles, and supply chain disruptions underscore just how powerful these flows are. Understanding them is not only a matter of economics but also of geopolitics and strategy.
+The topic of this Data Challenge is U.S. trade. Trade flows - imports, exports, and trade balances - sit at the heart of how countries interact with one another. From fueling domestic industries to influencing global alliances, patterns of trade shape the economic and political order of the world. Today, trade disputes, tariff battles, and supply chain disruptions underscore just how powerful these flows are. Understanding them is not only a matter of economics but also of geopolitics and strategy.
 
 The goal of this Data Challenge, then, is to explore patterns in U.S. trade using U.S. Census Bureau data. By analyzing trade volumes, substitution effects, correlations across goods, or the consistency of trading relationships between countries, you will develop insights into how nations and industries navigate this ever-changing landscape. Rather than producing a single “right answer,” your task is to ask sharp, research-like questions and explore them through statistical methods.
 
