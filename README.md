@@ -26,7 +26,10 @@ GROUPS MAY HAVE UP TO 4 MEMBERS . . .  NO MORE
 
 ## Relevant Variable Explanation
 
-**Commodity:** This column lists a commodity or commodity group and its corresponding North American Industry Classification System (NAICS) code used by North American (Canada, US, and Mexico) federal statistics agencies. Note that some codes refer to broad classifications of commodities while others refer to specific commodities. It may be useful (but is not required) to familiarize yourself with the NAICS, which you can do with this document: [link](https://www.census.gov/naics/reference_files_tools/2022_NAICS_Manual.pdf). 
+**Commodity:** This column lists a commodity or commodity group and its corresponding North American Industry Classification System (NAICS) code used by North American (Canada, US, and Mexico) federal statistics agencies. Note that some codes refer to broad classifications of commodities while others refer to specific commodities. It may be useful (but is not required) to familiarize yourself with the NAICS, which you can do with this document: [link](https://www.census.gov/naics/reference_files_tools/2022_NAICS_Manual.pdf). Or, you can reference this table:
+
+<img width="1292" height="538" alt="image" src="https://github.com/user-attachments/assets/6bba8280-5eb6-432c-af69-8439d001511d" />
+
 
 **Month:** This column lists the month of analysis.
 
